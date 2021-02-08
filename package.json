@@ -2,9 +2,7 @@
   "name": "nodejsexamples",
   "version": "1.0.0",
   "description": "This Project explains all Node JS examples",
-  "main": "app.js",
-  "publishConfig": {
-    "registry": "http://3.1.100.27:8081/repository/nodejs-mss/"
+  "main": "app.js"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
